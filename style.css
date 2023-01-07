@@ -21,6 +21,7 @@ li {
     margin: 0 auto;
 }
 
+
 /* ======================================
         Global Style CSS End Here
 ========================================= */
@@ -192,9 +193,10 @@ main {
     Start some brif Section CSS
 ======================================= */
 .some-brif {
+    margin-top: 50px;
     background-color: #D9AFD9;
     background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
-    border-radius: 20px 20px 0;
+    border-radius: 20px 20px 0 0;
 }
 
 .sub-title {
