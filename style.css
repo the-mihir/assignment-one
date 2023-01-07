@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;800&family=Work+Sans:wght@400;500;600;700;800&display=swap');
 
+
+/* ======================================
+        Global Style CSS Start Here
+========================================= */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,38 +16,43 @@ li {
 }
 
 .container {
-    padding: 50px 100px;
+    width: 1140px;
+    padding: 50px 20px;
+    margin: 0 auto;
 }
 
+/* ======================================
+        Global Style CSS End Here
+========================================= */
+
+
+
+/* ======================================
+    Here Section Style CSS Start  Here
+========================================= */
 .hero-section {
     background-image: url("/imgs/banner/banner3.png");
-    min-height: 800px;
+    min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    display: flex;
     align-items: center;
 }
 
-
 .rightdiv {
+    margin-top: 200px;
     direction: rtl;
 }
 
 .hero-text {
     color: #fff;
     font-weight: 700;
-    font-size: 65px;
-    width: 50%;
-
-}
-
-.hero-text {
-    margin-left: 250px;
+    font-size: 55px;
+    width: 550px;
 }
 
 .hero-info {
-    width: 40%;
+    width: 400px;
     direction: rtl;
     margin-top: 25px;
     color: #fff;
@@ -58,6 +68,30 @@ li {
     cursor: pointer;
 }
 
+/* ======================================
+    Here Section Style CSS End Here
+========================================= */
+
+
+
+
+/* ======================================
+        Main Section Width Design 
+========================================= */
+
+main {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/* ===================================
+    End Main Section Width Design
+======================================= */
+
+
+/* ===================================
+    Start About Section CSS
+======================================= */
 .about-info {
     display: flex;
     gap: 50px 100px;
@@ -66,16 +100,13 @@ li {
 
 .section-heading h2 {
     font-size: 40px;
-    width: 60%;
+    width: 400px;
     margin-bottom: 25px;
 }
 
 .text-info {
     margin-bottom: 25px;
-    width: 60%;
-}
-
-.section-heading p {
+    width: 418px;
     color: #444343;
 }
 
@@ -88,10 +119,20 @@ li {
     margin: 10px 10px 0 0;
 }
 
+/* ===================================
+    End About Section CSS
+======================================= */
+
+
+/* ========================================
+    Start My Plane Section CSS End Here
+=========================================== */
+
 .sub-heading {
     font-size: 25px;
     text-align: center;
     margin-bottom: 25px;
+    margin-top: 80px;
 
 }
 
@@ -120,7 +161,6 @@ li {
     border-radius: 10px;
     align-items: center;
     margin: 50px 0;
-
 }
 
 .call-for-action h2 {
@@ -143,7 +183,14 @@ li {
     border-radius: 5px;
 }
 
+/* ========================================
+    End My Plane Section CSS End Here
+=========================================== */
 
+
+/* ===================================
+           Start Footer Design
+======================================= */
 
 footer {
     background-color: black;
@@ -168,8 +215,8 @@ footer {
 }
 
 .footer-left {
-    width: 40%;
-    margin-top: 100px;
+    width: 450px;
+    margin-top: 50px;
 }
 
 .footer-left h2 {
