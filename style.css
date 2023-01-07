@@ -153,7 +153,7 @@ main {
 }
 
 .call-for-action {
-    background-image: url(/imgs/gradient1.png), url(/imgs/watch.png);
+    background-image: url(./imgs/gradient1.png), url(./imgs/watch.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
