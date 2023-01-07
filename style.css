@@ -188,6 +188,62 @@ main {
     End My Plane Section CSS End Here
 =========================================== */
 
+/* ===================================
+    Start some brif Section CSS
+======================================= */
+.some-brif {
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
+    border-radius: 20px 20px 0;
+}
+
+.sub-title {
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.sp-text {
+    color: rgb(215, 15, 222);
+    font-style: italic;
+
+
+}
+
+.section-btn {
+    color: #fff;
+    padding: 17px 50px;
+    margin-top: 40px;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    background-color: blue;
+    font-size: 20px;
+}
+
+.sub-title-two {
+    margin-top: 30px;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.brif-iner {
+    display: flex;
+
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.brif-iner img {
+    border-radius: 100px;
+    max-height: 600px;
+}
+
+
+/* ===================================
+    End some brif Section CSS
+======================================= */
 
 /* ===================================
            Start Footer Design
