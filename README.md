@@ -3,4 +3,4 @@
 <p align="center">This Is My Frist assignment for programming Hero</p>
 
 
-<code><img height="22" src=""></code>
+<code><img src="https://github.com/the-mihir/assignment-one/blob/main/git%20Preview.png"></code>
