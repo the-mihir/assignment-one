@@ -32,7 +32,7 @@ li {
 ========================================= */
 .hero-section {
     background-image: url("/imgs/banner/banner3.png");
-    min-height: 100vh;
+    min-height: 800px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -40,11 +40,11 @@ li {
 }
 
 .rightdiv {
-    margin-top: 150px;
     direction: rtl;
 }
 
 .hero-text {
+    margin-top: 150px;
     color: #fff;
     font-weight: 700;
     font-size: 65px;
