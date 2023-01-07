@@ -40,19 +40,19 @@ li {
 }
 
 .rightdiv {
-    margin-top: 200px;
+    margin-top: 150px;
     direction: rtl;
 }
 
 .hero-text {
     color: #fff;
     font-weight: 700;
-    font-size: 55px;
-    width: 550px;
+    font-size: 65px;
+    width: 595px;
 }
 
 .hero-info {
-    width: 400px;
+    width: 547px;
     direction: rtl;
     margin-top: 25px;
     color: #fff;
@@ -66,6 +66,7 @@ li {
     border-radius: 5px;
     font-weight: 500;
     cursor: pointer;
+    font-size: 22px;
 }
 
 /* ======================================
