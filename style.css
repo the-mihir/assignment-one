@@ -31,7 +31,7 @@ li {
     Here Section Style CSS Start  Here
 ========================================= */
 .hero-section {
-    background-image: url("/imgs/banner/banner3.png");
+    background-image: url("./imgs/banner/banner3.png");
     min-height: 800px;
     background-position: center;
     background-repeat: no-repeat;
